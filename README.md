@@ -1,2 +1,3 @@
-# Flutter_Practice
-Flutter and GIthub upload practice.
+# Links
+## Pubspec (check flutter plugins versions)
+link: https://pub.dev/
